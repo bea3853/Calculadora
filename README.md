@@ -8,7 +8,8 @@
 
   
 
-Calculadora que realiza as 4 principais operações.   
+Calculadora que realiza as 4 principais operações:
++, -, *, /.
 
   
 #  Tecnologias utilizadas
